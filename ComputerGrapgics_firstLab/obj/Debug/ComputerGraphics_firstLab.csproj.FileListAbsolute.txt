@@ -1,0 +1,11 @@
+C:\Users\DIMA\source\repos\ComputerGrapgics_firstLab\ComputerGrapgics_firstLab\bin\Debug\ComputerGraphics_firstLab.exe.config
+C:\Users\DIMA\source\repos\ComputerGrapgics_firstLab\ComputerGrapgics_firstLab\bin\Debug\ComputerGraphics_firstLab.exe
+C:\Users\DIMA\source\repos\ComputerGrapgics_firstLab\ComputerGrapgics_firstLab\bin\Debug\ComputerGraphics_firstLab.pdb
+C:\Users\DIMA\source\repos\ComputerGrapgics_firstLab\ComputerGrapgics_firstLab\obj\Debug\ComputerGraphics_firstLab.csprojAssemblyReference.cache
+C:\Users\DIMA\source\repos\ComputerGrapgics_firstLab\ComputerGrapgics_firstLab\obj\Debug\ComputerGraphics_firstLab.Form1.resources
+C:\Users\DIMA\source\repos\ComputerGrapgics_firstLab\ComputerGrapgics_firstLab\obj\Debug\ComputerGrapgics_firstLab.Properties.Resources.resources
+C:\Users\DIMA\source\repos\ComputerGrapgics_firstLab\ComputerGrapgics_firstLab\obj\Debug\ComputerGraphics_firstLab.SettingsMathMorphology.resources
+C:\Users\DIMA\source\repos\ComputerGrapgics_firstLab\ComputerGrapgics_firstLab\obj\Debug\ComputerGraphics_firstLab.csproj.GenerateResource.cache
+C:\Users\DIMA\source\repos\ComputerGrapgics_firstLab\ComputerGrapgics_firstLab\obj\Debug\ComputerGraphics_firstLab.csproj.CoreCompileInputs.cache
+C:\Users\DIMA\source\repos\ComputerGrapgics_firstLab\ComputerGrapgics_firstLab\obj\Debug\ComputerGraphics_firstLab.exe
+C:\Users\DIMA\source\repos\ComputerGrapgics_firstLab\ComputerGrapgics_firstLab\obj\Debug\ComputerGraphics_firstLab.pdb
